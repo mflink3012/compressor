@@ -1,0 +1,3 @@
+Adds recipes to the furnace to compress
+obsidian-glass to mese-fragments and
+coal-blocks to diamonds. 
