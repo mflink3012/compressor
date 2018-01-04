@@ -3,7 +3,7 @@ local modName = minetest.get_current_modname();
 minetest.register_craft({
   type = "cooking",
   output = "default:diamond",
-  recipe = "default:coal_block",
+  recipe = "default:coalblock",
 })
 
 minetest.register_craft({
