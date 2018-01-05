@@ -12,6 +12,6 @@ minetest.register_craft({
   recipe = "default:obsidian_glass",
 })
 
-if minetest.settings:get_bool("log_mods") then
+if minetest.setting_get("log_mods") then
   minetest.log("action", "[mod/" .. modName .. "] loaded.")
 end
