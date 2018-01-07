@@ -1,5 +1,7 @@
 # Minetest-Mod: compressor
 
+![Screenshot](screenshot.png "Screenshot") 
+
 ## What is this?
 
 This is a small mod for minetest to allow "cooking" diamonds and mese-crystal-fragments.
@@ -27,8 +29,6 @@ See shipped ``depends.txt``.
 1. Open the furnace-menu.
 2. Place a coal-block (not lump!) to the source to get a diamond.
 3. Place a obsidian-glass to the source to get a mese-crystal-fragment.
-
-![Screenshot](screenshot.png "Screenshot") 
 
 ## Known issues?
 
