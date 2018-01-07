@@ -28,6 +28,8 @@ See shipped ``depends.txt``.
 2. Place a coal-block (not lump!) to the source to get a diamond.
 3. Place a obsidian-glass to the source to get a mese-crystal-fragment.
 
+![Screenshot](screenshot.png "Screenshot") 
+
 ## Known issues?
 
 See the ``issues``-tab in GitHub-Repository.
